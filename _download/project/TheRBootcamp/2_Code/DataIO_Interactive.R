@@ -1,12 +1,12 @@
 ### R Skript zu "Data I/O"
 ### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: März 2020
+### Datum: Februar 2021
 ### Autor: The R Bootcamp
 
 
 ### Daten von Festplatte lesen ----------------------------
 
-# Stelle sicher, dass Tourismus.csv in deinem /1_Data Ordner liegt.
+# Stelle sicher, dass Tourismus.csv in deinem 1_Data Ordner liegt.
 
 # Lese die Datei mittels read.csv() ein. Denke an den Auto-Complete Trick!
 

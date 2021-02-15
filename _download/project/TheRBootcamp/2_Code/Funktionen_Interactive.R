@@ -1,6 +1,6 @@
 ### R Skript zu "Funktionen"
 ### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: März 2020
+### Datum: Februar 2021
 ### Autor: The R Bootcamp
 
 
@@ -12,10 +12,10 @@
 
 ### Funktionen haben help files ------------------------------------------------
 
-# Schaue dir das help file der sum() Funktion an. Verwende hierzu das Fragezeichen 
+# Schaue Dir die Hilfe für die sum() Funktion an. Verwende hierzu das Fragezeichen 
 # ? und dann den Namen der Funktion.
 
-# Welches sind die wichtigsten Abschnitte des sum() help files (und anderer)?
+# Welches sind die wichtigsten Abschnitte der sum() Hilfe (und die anderer Funtionen)?
 
 ### Funktionen haben (normalerweise) Argumente ---------------------------------
 
@@ -29,16 +29,17 @@ my_vec <- c(my_vec, NA)
 
 # Berechne nun nochmals die Summe von my_vec. Was ist das Ergebnis und warum?
 
-# Wiederhole die Berechnung der letzten Aufgabe, so dass das Resultat 6 ergibt.
+# Wiederhole die Berechnung der letzten Aufgabe, so dass das Resultat 6 ergibt. 
+# Verwende hierzu ein weiteres Argument der sum() Funktion.
 
 ### Die Klasse des Inputs muss mit der vorgegebenen Klasse übereinstimmen ------
 
-# Teste die Klasse von my_vec.
+# Teste die Klasse von my_vec mit class().
 
-# Ersetze mit Hilfe des folgenden Codes das NA in my_vec durch ein "a".
-my_vec <- c("a", "b", "c")
+# Kreiere mit dem folgenden code einen neuen Vektor my_vec
+my_vec <- c( "a", "b", "c")
 
-# Teste die Klasse von my_vec. Weshalb hat sich die Klasse geändert?
+# Teste die Klasse von my_vec. Weshalb ist die Klasse nun anders?
 
 # Berechne nochmals die Summe von my_vec. Was passiert und weshalb?
 
