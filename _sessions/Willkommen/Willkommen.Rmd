@@ -137,13 +137,8 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
 .pull-left5[
 
 <ul>
-  <li class="m1"><span>Wie heisst Du?</span></li>
-  <li class="m2"><span>Was ist Dein Beruf?</span></li>
-  <li class="m3"><span>Hast Du Programmiererfahrung mit R oder allgemein?</span></li>
-  <li class="m4"><span>Warum möchtest Du R lernen?</span></li>
-  <li class="m5"><span>Kaffee oder Tee?</span></li>
-  <li class="m6"><span>Bier oder Wein?</span></li>
-  <li class="m7"><span>Berlin oder Paris?</span></li>
+  <li class="m1"><span>Wer bist du?</span></li>
+  <li class="m2"><span>Warum möchtest Du R lernen?</span></li>
 </ul>
 
 
